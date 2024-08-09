@@ -2,7 +2,7 @@
 
 Meu nome é João Pedro
 
-- Estou estudando no alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e meus projetos desenvolvidos
 
